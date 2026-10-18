@@ -2,7 +2,6 @@
 id: root-config
 title: Root Configuration Files
 description: Define Terraform root-level configuration, providers, module calls, and outputs.
-sidebar_position: 2
 ---
 
 # Root Configuration Files

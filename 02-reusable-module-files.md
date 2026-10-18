@@ -2,7 +2,6 @@
 id: reusable-module
 title: Reusable Module Files
 description: Define reusable Terraform module for provisioning Azure Static Website resources.
-sidebar_position: 3
 ---
 
 # Reusable Module Files

@@ -13,7 +13,7 @@ This project demonstrates how to deploy a **Static Website on Azure Storage** wi
 1. [Project Overview](./README.md)  
 2. [Root Configuration Files](./01-root-configuration-files.md)  
 3. [Reusable Module Files](./02-reusable-module-files.md)  
-4. [Deploy the Static Website](./03-deploy-static-website..md)  
+4. [Deploy the Static Website](./03-deploy-static-website.md)  
 
 
 ## Aim
